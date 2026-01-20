@@ -6,7 +6,7 @@
   "id": "did:web:GovarthananMosip.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkm1afTkuxcoxkbCFfDCDxf8zWr4wh6KsAzXrWxThMQ5dQ",
+      "publicKeyMultibase": "z6MknFyD4BmqokUZ3kdu69noqJkRU2wbPo16jHdHnSLBdky6",
       "controller": "did:web:GovarthananMosip.github.io:DID:dev1",
       "id": "did:web:GovarthananMosip.github.io:DID:dev1#LBOMroaVYK7JWf84qEohnQXIqyum9wV-Oliik4mv3W8",
       "type": "Ed25519VerificationKey2020",
