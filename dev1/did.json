@@ -1,23 +1,21 @@
+
 {
   "@context": [
     "https://www.w3.org/ns/did/v1"
   ],
-  "id": "did:web:GovarthananMosip.github.io:DID:dev1",
-
+  "id": "did:web:govarthananmosip.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "id": "did:web:GovarthananMosip.github.io:DID:dev1#qXKvlzfVMxi-MbBZs4c5KY8yU4YYr3TmbfdEd2T1Oqs",
+      "id": "did:web:govarthananmosip.github.io:DID:dev1#key-1",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:GovarthananMosip.github.io:DID:dev1",
-      "publicKeyMultibase": "z6MknFyD4BmqokUZ3kdu69noqJkRU2wbPo16jHdHnSLBdky6"
+      "controller": "did:web:govarthananmosip.github.io:DID:dev1",
+      "publicKeyMultibase": "zbvVLAwybdiy7fKqx51W5RuiRe7RbYnmkdVXQ585BWxV"
     }
   ],
-
   "authentication": [
-    "did:web:GovarthananMosip.github.io:DID:dev1"
+    "did:web:govarthananmosip.github.io:DID:dev1#key-1"
   ],
-
   "assertionMethod": [
-    "did:web:GovarthananMosip.github.io:DID:dev1"
+    "did:web:govarthananmosip.github.io:DID:dev1#key-1"
   ]
 }
